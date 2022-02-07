@@ -4,4 +4,4 @@
 <!-- https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=garsemar&show_icons=true&locale=en&layout=compact" alt="garsemar"/></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=garsemar&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)" alt="garsemar"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=garsemar&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="garsemar"/></p>
